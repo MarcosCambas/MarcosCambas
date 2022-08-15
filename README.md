@@ -3,7 +3,7 @@
 - I'm interested in data analysis, especially geospatial data
 - My main activities:
    - Analyst Programmer in the remote sense department of Tragsatec (Spain)
-   - Researcher in the Geography and Eviroment department of the University of Alcalá (Spain)
+   - Researcher in the Geography and Evironment department of the University of Alcalá (Spain)
 
 - You can reach me on: marcos.cmunoz@gmail.com
   
