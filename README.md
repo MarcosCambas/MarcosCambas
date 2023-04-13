@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarcosCambas
 
-- I'm interested in data analysis, especially geospatial data
 - My main activities:
    - Analyst Programmer in the remote sense department of Tragsatec (Spain)
    - Researcher in the Geography and Environment department of the University of Alcalá (Spain)
